@@ -1,6 +1,6 @@
-\header {
-  title = "In may"
-}
+\version "2.10.33"
+
+\header { title = "In May" }
 
 \relative c'' {
   \time 3/4
@@ -17,4 +17,3 @@
   g4 a b c d c b b a
   g2.
 }
-
