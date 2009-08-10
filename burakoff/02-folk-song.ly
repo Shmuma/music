@@ -3,6 +3,9 @@
 \header { title = "Folk song" }
 
 \relative c'' {
-  g4 g2
+  \time 3/4
+  r2 g4 g2
   b4 a2 g4
+
+  d2 d2 g4
 }

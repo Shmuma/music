@@ -1,7 +1,7 @@
 all: 01-in-may.pdf 02-folk-song.pdf
 
-.ly.pdf:
-	lilypond burakoff-exc.ly $<
+%.pdf: %.ly
+	lilypond $< && rm -f *.ps
 
 clean:
 	-rm -f *.pdf *.ps
