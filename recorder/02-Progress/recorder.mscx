@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="1.14">
+  <programVersion>0.9.6.3</programVersion>
+  <programRevision>3507 
+</programRevision>
+  <Spatium>1.76389</Spatium>
+  <Division>480</Division>
+  <Style>
+    </Style>
+  <showInvisible>1</showInvisible>
+  <showFrames>1</showFrames>
+  <page-layout>
+    <pageFormat>A4</pageFormat>
+    <page-margins type="even">
+      <left-margin>56.6929</left-margin>
+      <right-margin>56.6929</right-margin>
+      <top-margin>56.6929</top-margin>
+      <bottom-margin>113.386</bottom-margin>
+      </page-margins>
+    <page-margins type="odd">
+      <left-margin>56.6929</left-margin>
+      <right-margin>56.6929</right-margin>
+      <top-margin>56.6929</top-margin>
+      <bottom-margin>113.386</bottom-margin>
+      </page-margins>
+    </page-layout>
+  <siglist>
+    <sig tick="0">
+      <nom>4</nom>
+      <denom>4</denom>
+      </sig>
+    </siglist>
+  <tempolist fix="2">
+    </tempolist>
+  <Part>
+    <Staff>
+      <cleflist>
+        <clef tick="0" idx="1"/>
+        </cleflist>
+      <keylist>
+        <key tick="0" idx="1"/>
+        </keylist>
+      <bracket type="-1" span="1"/>
+      </Staff>
+    <name>
+      <style>9</style>
+      <subtype>InstrumentLong</subtype>
+      <frame>0</frame>
+      <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:12pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Soprano Recorder</p></body></html>
+        </html-data>
+      </name>
+    <shortName>
+      <style>10</style>
+      <subtype>InstrumentShort</subtype>
+      <frame>0</frame>
+      <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:12pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">S. Rec.</p></body></html>
+        </html-data>
+      </shortName>
+    <Instrument>
+      <minPitchP>72</minPitchP>
+      <maxPitchP>98</maxPitchP>
+      <minPitchA>72</minPitchA>
+      <maxPitchA>93</maxPitchA>
+      <trackName>Soprano Recorder</trackName>
+      <Channel>
+        <controller ctrl="0" value="0"/>
+        <controller ctrl="32" value="0"/>
+        <program value="74"/>
+        <controller ctrl="7" value="127"/>
+        <controller ctrl="10" value="64"/>
+        <controller ctrl="93" value="30"/>
+        <controller ctrl="91" value="104"/>
+        </Channel>
+      </Instrument>
+    </Part>
+  <Volta>
+    <subtype>1</subtype>
+    <tick>26880</tick>
+    <anchor>1</anchor>
+    <tick2>28800</tick2>
+    <Segment>
+      <off1 x="-0.137541" y="-1.55499"/>
+      <off2 x="0" y="0"/>
+      <offset x="-0.137541" y="-1.55499"/>
+      </Segment>
+    <beginText>
+      <style>27</style>
+      <subtype>TextLine</subtype>
+      <frame>0</frame>
+      <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:600; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">1.</p></body></html>
+        </html-data>
+      </beginText>
+    <endings>1</endings>
+    </Volta>
+  <Volta>
+    <subtype>1</subtype>
+    <tick>30720</tick>
+    <anchor>1</anchor>
+    <tick2>32640</tick2>
+    <Segment>
+      <off1 x="4.62776" y="-1.86415"/>
+      <off2 x="0" y="0"/>
+      <offset x="4.62776" y="-1.86415"/>
+      </Segment>
+    <beginText>
+      <style>27</style>
+      <subtype>TextLine</subtype>
+      <frame>0</frame>
+      <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:600; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">3.</p></body></html>
+        </html-data>
+      </beginText>
+    <endings>3</endings>
+    </Volta>
+  <Staff id="1">
+    <VBox>
+      <height>10</height>
+      <leftMargin>5</leftMargin>
+      <rightMargin>5</rightMargin>
+      <topMargin>5</topMargin>
+      <bottomMargin>5</bottomMargin>
+      <Text>
+        <style>2</style>
+        <subtype>Title</subtype>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:24pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">До чего дошел прогресс</p></body></html>
+          </html-data>
+        </Text>
+      <Text>
+        <style>3</style>
+        <subtype>Subtitle</subtype>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:14pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Переложение для блокфлейты</p></body></html>
+          </html-data>
+        </Text>
+      </VBox>
+    <Measure number="1">
+      <KeySig>
+        <subtype>1</subtype>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="0" y="0"/>
+          </KeySym>
+        </KeySig>
+      <TimeSig>
+        <subtype>260</subtype>
+        <den>4</den>
+        <nom1>4</nom1>
+        </TimeSig>
+      <Rest>
+        <durationType>measure</durationType>
+        </Rest>
+      </Measure>
+    <Measure number="2">
+      <startRepeat/>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Beam id="0">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>0</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>0</Beam>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Beam id="1">
+        </Beam>
+      <Chord>
+        <dots>1</dots>
+        <durationType>eighth</durationType>
+        <Beam>1</Beam>
+        <Note>
+          <pitch>91</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>16th</durationType>
+        <Beam>1</Beam>
+        <Note>
+          <pitch>90</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>1</Beam>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>1</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Lyrics>
+        <style>6</style>
+        <tick>2400</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">До</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>2640</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">че</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>2880</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">го</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>3240</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">до</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>3360</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">шел</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>3600</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">про</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="3">
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>3840</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">гресс!</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="4">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Beam id="2">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>2</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>2</Beam>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Beam id="3">
+        </Beam>
+      <Chord>
+        <dots>1</dots>
+        <durationType>eighth</durationType>
+        <Beam>3</Beam>
+        <Note>
+          <pitch>91</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>16th</durationType>
+        <Beam>3</Beam>
+        <Note>
+          <pitch>90</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>3</Beam>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>3</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Lyrics>
+        <style>6</style>
+        <tick>6240</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">До</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>6480</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">не</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>6720</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ви</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>7080</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">дан</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>7200</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ных</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>7440</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">чу</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="5">
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>7680</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">дес!</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="6">
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Beam id="4">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>4</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>4</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Beam id="5">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>5</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>5</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>5</Beam>
+        <Note>
+          <pitch>86</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>5</Beam>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>10080</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">О</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>10320</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">пус</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>10560</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">тил</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>10800</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ся</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <style>6</style>
+        <tick>11040</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">на</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>11280</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">глу</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="7">
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Note>
+          <pitch>86</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>11520</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">би</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>12240</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ны</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="8">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Beam id="6">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>6</Beam>
+        <Note>
+          <pitch>86</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>6</Beam>
+        <Note>
+          <pitch>86</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Beam id="7">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>7</Beam>
+        <Note>
+          <pitch>86</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>7</Beam>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>7</Beam>
+        <Note>
+          <pitch>86</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>7</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Lyrics>
+        <style>6</style>
+        <tick>13920</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">и</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>14160</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">под</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>14400</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">нял</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>14640</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ся</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <style>6</style>
+        <tick>14880</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">до</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>15120</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">не</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="9">
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Beam id="8">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>8</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>8</Beam>
+        <Note>
+          <pitch>86</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>8</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>8</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>15360</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">бес.</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>16320</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">По</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>16560</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">за</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>16800</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">бы</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>17040</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ты</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="10">
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>86</pitch>
+          <tpc>16</tpc>
+          </Note>
+        </Chord>
+      <Beam id="9">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>9</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>9</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>17280</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">хло</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>17760</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">пы</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>18000</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ты,</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="11">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Beam id="10">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>10</Beam>
+        <Note>
+          <pitch>81</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>10</Beam>
+        <Note>
+          <pitch>84</pitch>
+          <tpc>14</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>10</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>10</Beam>
+        <Note>
+          <pitch>81</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>20160</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ос</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>20400</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">та</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>20640</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">нов</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>20880</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">лен</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="12">
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <BarLine>
+        </BarLine>
+      <Lyrics>
+        <style>6</style>
+        <tick>21120</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">бег,</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="13">
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Beam id="11">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>11</Beam>
+        <Note>
+          <pitch>79</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>11</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>11</Beam>
+        <Note>
+          <pitch>81</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>11</Beam>
+        <Note>
+          <pitch>79</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <BarLine>
+        </BarLine>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>24000</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">вка</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>24240</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">лы</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>24480</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ва</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>24720</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ют</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="14">
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Beam id="12">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>12</Beam>
+        <Note>
+          <pitch>81</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>12</Beam>
+        <Note>
+          <pitch>81</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <BarLine>
+        </BarLine>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>24960</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ро</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>25440</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">бо</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>25680</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ты,</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="15">
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Beam id="13">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>13</Beam>
+        <Note>
+          <pitch>78</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>13</Beam>
+        <Note>
+          <pitch>78</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>13</Beam>
+        <Note>
+          <pitch>79</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>13</Beam>
+        <Note>
+          <pitch>78</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <BarLine>
+        </BarLine>
+      <Lyrics>
+        <style>6</style>
+        <tick>27840</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">а</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <style>6</style>
+        <tick>28080</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">не</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>28320</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">че</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>28560</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ло</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="16">
+      <endRepeat>2</endRepeat>
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>76</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>28800</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">век!</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="17">
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <Beam id="14">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>14</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>14</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>eighth</durationType>
+        </Rest>
+      <Beam id="15">
+        </Beam>
+      <Chord>
+        <durationType>16th</durationType>
+        <Beam>15</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>16th</durationType>
+        <Beam>15</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <BarLine>
+        </BarLine>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>31680</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">счаст</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>31920</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">лив</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>begin</syllabic>
+        <style>6</style>
+        <tick>32400</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">че</p></body></html>
+          </html-data>
+        </Lyrics>
+      <Lyrics>
+        <syllabic>middle</syllabic>
+        <style>6</style>
+        <tick>32520</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">ло</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    <Measure number="18">
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>quarter</durationType>
+        </Rest>
+      <Rest>
+        <durationType>half</durationType>
+        </Rest>
+      <BarLine>
+        <subtype>5</subtype>
+        </BarLine>
+      <Lyrics>
+        <syllabic>end</syllabic>
+        <style>6</style>
+        <tick>32640</tick>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:11pt; font-weight:400; font-style:normal;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">век!</p></body></html>
+          </html-data>
+        </Lyrics>
+      </Measure>
+    </Staff>
+  <cursorTrack>-1</cursorTrack>
+  </museScore>
